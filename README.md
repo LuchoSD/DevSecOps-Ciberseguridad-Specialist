@@ -13,3 +13,6 @@ Especialista en Ciberseguridad &amp; DevSecOps con experiencia en HealthTech.
 - Burp Suite, Metasploit, SAST/DAST
 - PHP, JavaScript, SQL, HealthTech Architectures
 - IA & Prompt Engineering
+
+## CV
+https://github.com/LuchoSD/DevSecOps-Ciberseguridad-Specialist/blob/cffdff522d2d0db22ed6091b90c23b8ba3ef20ec/CV%20Luciano%20Rivas%20DevSecOps.pdf
